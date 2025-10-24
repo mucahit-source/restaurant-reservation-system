@@ -1,4 +1,4 @@
-# restaurant-reservation-system🪑
+# Restaurant-Reservation-System🪑
 Python ile masa rezervasyonu yapmanızı ve mevcut rezervasyonları sorgulamanızı sağlayan terminal tabanlı uygulama
 
 Bu proje, Python diliyle yazılmış bir **masa rezervasyon sistemi** örneğidir.  
