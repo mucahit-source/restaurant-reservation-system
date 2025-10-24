@@ -21,7 +21,7 @@ Kullanıcılar yeni rezervasyon yapabilir, daha önce yaptığı rezervasyonu so
 
 1. Bu depoyu klonla:
 bash
-git clone https://github.com/KULLANICI_ADIN/reservation-system.git
+git clone https://github.com/mucahit-source/restaurant-reservation-system.git
 
 2. Python 3’ün yüklü olduğundan emin ol.
 
